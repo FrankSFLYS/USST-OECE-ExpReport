@@ -15,13 +15,13 @@
 \usepackage{pdfpages}
 \usepackage{tabularx}
 \usepackage{listings}
-\usepackage[newfloat]{minted}
 %\usepackage{titlesec}
 %\usepackage{titletoc}
 \usepackage{layouts}
 \usepackage{ifthen}
 \usepackage{xcolor}  % colorlet
 \usepackage{mdwlist} % enumerate*
+\usepackage{minted}
 \usepackage{tcolorbox}
 \usepackage{etoolbox}
 
@@ -55,15 +55,19 @@
 	frameround=fttt,
 	rulesepcolor=\color{red!20!green!20!blue!20},
 	% identifierstyle=\color{red},
-	language=C,
+	language=Verilog,
 	keepspaces=true,
 }
-\BeforeBeginEnvironment{minted}%
-{\begin{tcolorbox}[colback=white,colframe=mymauve!30!mygray,boxrule=0.5pt]}%
-		\AfterEndEnvironment{minted}%
-		{\end{tcolorbox}}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Not Using tcolorbox as minted frames anymore in case of cover-page problems
+%\BeforeBeginEnvironment{minted}%
+%	{\begin{tcolorbox}[colback=white,colframe=mymauve!30!mygray,boxrule=0.5pt]}%
+%\AfterEndEnvironment{minted}%
+%	{\end{tcolorbox}}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setminted{
-	frame=none,
+	frame=single,
+	rulecolor=mymauve!30!mygray,
 	fontsize=\footnotesize,
 }
 \ctexset{
@@ -133,7 +137,6 @@
 \renewcommand{\qedsymbol}{\textcolor{darkred}{\rule{1ex}{1.5ex}}}
 
 \captionsetup{font={footnotesize}}
-\SetupFloatingEnvironment{listing}{name=清单}
 \begin{document}
 
 \input{contents}
