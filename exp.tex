@@ -15,13 +15,15 @@
 \usepackage{pdfpages}
 \usepackage{tabularx}
 \usepackage{listings}
-\usepackage{minted}
+\usepackage[newfloat]{minted}
 %\usepackage{titlesec}
 %\usepackage{titletoc}
 \usepackage{layouts}
 \usepackage{ifthen}
 \usepackage{xcolor}  % colorlet
 \usepackage{mdwlist} % enumerate*
+\usepackage{tcolorbox}
+\usepackage{etoolbox}
 
 \geometry{a4paper,left=3.18cm,right=3.18cm,top=2.54cm,bottom=2.54cm}
 %%%%%%%%%%%%%%%% 与 ctexset 冲突，不再使用
@@ -53,8 +55,16 @@
 	frameround=fttt,
 	rulesepcolor=\color{red!20!green!20!blue!20},
 	% identifierstyle=\color{red},
-	language=Verilog,
+	language=C,
 	keepspaces=true,
+}
+\BeforeBeginEnvironment{minted}%
+{\begin{tcolorbox}[colback=white,colframe=mymauve!30!mygray,boxrule=0.5pt]}%
+		\AfterEndEnvironment{minted}%
+		{\end{tcolorbox}}%
+\setminted{
+	frame=none,
+	fontsize=\footnotesize,
 }
 \ctexset{
     section = {
@@ -123,6 +133,7 @@
 \renewcommand{\qedsymbol}{\textcolor{darkred}{\rule{1ex}{1.5ex}}}
 
 \captionsetup{font={footnotesize}}
+\SetupFloatingEnvironment{listing}{name=清单}
 \begin{document}
 
 \input{contents}
