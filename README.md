@@ -1,4 +1,5 @@
-# USST-OECE-ExpReport
+# USST-OECE-ExpReport [![Travis](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/FrankSFLYS/USST-OECE-ExpReport) [![Apache License](https://img.shields.io/badge/LICENSE-Apache-orange.svg)](LICENSE)
+
 This is a LaTeX template for University of Shanghai of Science and Technology, Optical Electronic and Computer Engineering Institute, experimentation reports.
 
 上海理工大学光电信息与计算机工程学院实验报告的 LaTeX 模板。
