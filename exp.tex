@@ -6,7 +6,7 @@
 \usepackage{enumerate}
 \usepackage{amsmath}
 \usepackage{amsthm}
-\usepackage{caption}
+\usepackage{caption} % \captionof
 \usepackage{graphicx}
 \usepackage{subfig}
 \usepackage{tikz}
@@ -21,9 +21,11 @@
 \usepackage{ifthen}
 \usepackage{xcolor}  % colorlet
 \usepackage{mdwlist} % enumerate*
-\usepackage{minted}
+\usepackage[newfloat]{minted}
 \usepackage{tcolorbox}
+%\tcbuselibrary{listings}
 \usepackage{etoolbox}
+\usepackage{metalogo} % \XeLaTeX, \XeTex
 
 \geometry{a4paper,left=3.18cm,right=3.18cm,top=2.54cm,bottom=2.54cm}
 %%%%%%%%%%%%%%%% 与 ctexset 冲突，不再使用
@@ -137,6 +139,8 @@
 \renewcommand{\qedsymbol}{\textcolor{darkred}{\rule{1ex}{1.5ex}}}
 
 \captionsetup{font={footnotesize}}
+\newenvironment{code}{\captionsetup{type=listing}}{}
+\SetupFloatingEnvironment{listing}{name=清单}
 \begin{document}
 
 \input{contents}

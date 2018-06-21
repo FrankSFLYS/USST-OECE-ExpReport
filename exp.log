@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.13)  20 JUN 2018 17:08
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.13)  21 JUN 2018 12:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1583,6 +1583,90 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
+(g:/TeXLive/2018/texmf-dist/tex/latex/layouts/layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip78
+\layoutsbox=\box70
+\l@youtunitlength=\skip79
+\l@youtlinethick=\skip80
+\l@youtlinethickii=\skip81
+\l@ysetupparskip=\skip82
+\l@ysetupbaselineskip=\skip83
+\l@yonem=\skip84
+\l@yonex=\skip85
+\l@ylmarg=\skip86
+\l@yrmarg=\skip87
+\l@yitmindent=\skip88
+\l@ylblwidth=\skip89
+\l@ylblsep=\skip90
+\l@ylparindent=\skip91
+\l@ytsep=\skip92
+\l@ypskip=\skip93
+\l@yptsep=\skip94
+\l@ypsep=\skip95
+\l@yitmsep=\skip96
+\l@ytok=\toks47
+\l@youtpw=\count320
+\l@youtph=\count321
+\l@youthpi=\count322
+\l@youthpii=\count323
+\l@youthpiii=\count324
+\l@youthpiv=\count325
+\l@youthpv=\count326
+\l@youthpvi=\count327
+\l@youthpvii=\count328
+\l@youtparskip=\count329
+\l@youtvpi=\count330
+\l@youtvpii=\count331
+\l@youtvpiii=\count332
+\l@youtvpiv=\count333
+\l@youtvpv=\count334
+\l@youtvpvi=\count335
+\l@youtvpvii=\count336
+\l@youthdo=\count337
+\l@youthdi=\count338
+\l@youthdii=\count339
+\l@youthdiii=\count340
+\l@youthdiv=\count341
+\l@youthdv=\count342
+\l@youthdvi=\count343
+\l@youthdvii=\count344
+\l@youtvdo=\count345
+\l@youtvdi=\count346
+\l@youtvdii=\count347
+\l@youtvdiii=\count348
+\l@youtvdiv=\count349
+\l@youtvdv=\count350
+\l@youtvdvi=\count351
+\l@youtvdvii=\count352
+\l@youtvdviii=\count353
+\l@youtxci=\count354
+\l@youtxcii=\count355
+\l@youtxciii=\count356
+\l@youtxciv=\count357
+\l@youtxcv=\count358
+\l@youtxcvi=\count359
+\l@youtyci=\count360
+\l@youtycii=\count361
+\l@youtyciii=\count362
+\l@youtyciv=\count363
+\l@youtycv=\count364
+\l@youtycvi=\count365
+\l@youtycvii=\count366
+\l@youtycviii=\count367
+\l@youtxco=\count368
+\l@youtyco=\count369
+\l@ytempdima=\skip97
+\stockwidth=\skip98
+\stockheight=\skip99
+\trimedge=\skip100
+\trimtop=\skip101
+\uppermargin=\skip102
+\spinemargin=\skip103
+)
+(g:/TeXLive/2018/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
 (g:/TeXLive/2018/texmf-dist/tex/latex/minted/minted.sty
 Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
 
@@ -1610,18 +1694,18 @@ b
 
 (g:/TeXLive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count320
+\etb@tempcnta=\count370
 )
 (g:/TeXLive/2018/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count321
+\FV@CodeLineNo=\count371
 \FV@InFile=\read3
-\FV@TabBox=\box70
-\c@FancyVerbLine=\count322
-\FV@StepNumber=\count323
+\FV@TabBox=\box71
+\c@FancyVerbLine=\count372
+\FV@StepNumber=\count373
 \FV@OutFile=\write4
 ) (g:/TeXLive/2018/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
@@ -1713,43 +1797,43 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 (g:/TeXLive/2018/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
-\linenopenalty=\count324
-\output=\toks47
-\linenoprevgraf=\count325
+\linenopenalty=\count374
+\output=\toks48
+\linenoprevgraf=\count375
 \linenumbersep=\dimen330
 \linenumberwidth=\dimen331
-\c@linenumber=\count326
-\c@pagewiselinenumber=\count327
-\c@LN@truepage=\count328
-\c@internallinenumber=\count329
-\c@internallinenumbers=\count330
+\c@linenumber=\count376
+\c@pagewiselinenumber=\count377
+\c@LN@truepage=\count378
+\c@internallinenumber=\count379
+\c@internallinenumbers=\count380
 \quotelinenumbersep=\dimen332
 \bframerule=\dimen333
 \bframesep=\dimen334
-\bframebox=\box71
+\bframebox=\box72
 LaTeX Info: Redefining \\ on input line 3056.
 )
-\c@FV@TrueTabGroupLevel=\count331
-\c@FV@TrueTabCounter=\count332
-\FV@TabBox@Group=\box72
-\FV@TmpLength=\skip78
-\c@FV@HighlightLinesStart=\count333
-\c@FV@HighlightLinesStop=\count334
-\FV@LoopCount=\count335
-\FV@NCharsBox=\box73
+\c@FV@TrueTabGroupLevel=\count381
+\c@FV@TrueTabCounter=\count382
+\FV@TabBox@Group=\box73
+\FV@TmpLength=\skip104
+\c@FV@HighlightLinesStart=\count383
+\c@FV@HighlightLinesStop=\count384
+\FV@LoopCount=\count385
+\FV@NCharsBox=\box74
 \FV@BreakIndent=\dimen335
-\FV@BreakIndentNChars=\count336
+\FV@BreakIndentNChars=\count386
 \FV@BreakSymbolSepLeft=\dimen336
-\FV@BreakSymbolSepLeftNChars=\count337
+\FV@BreakSymbolSepLeftNChars=\count387
 \FV@BreakSymbolSepRight=\dimen337
-\FV@BreakSymbolSepRightNChars=\count338
+\FV@BreakSymbolSepRightNChars=\count388
 \FV@BreakSymbolIndentLeft=\dimen338
-\FV@BreakSymbolIndentLeftNChars=\count339
+\FV@BreakSymbolIndentLeftNChars=\count389
 \FV@BreakSymbolIndentRight=\dimen339
-\FV@BreakSymbolIndentRightNChars=\count340
-\c@FancyVerbLineBreakLast=\count341
-\FV@LineBox=\box74
-\FV@LineIndentBox=\box75
+\FV@BreakSymbolIndentRightNChars=\count390
+\c@FancyVerbLineBreakLast=\count391
+\FV@LineBox=\box75
+\FV@LineIndentBox=\box76
 )
 (g:/TeXLive/2018/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
@@ -1773,14 +1857,14 @@ Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
 (g:/TeXLive/2018/texmf-dist/tex/generic/xstring/xstring.sty
 (g:/TeXLive/2018/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write5
-\integerpart=\count342
-\decimalpart=\count343
+\integerpart=\count392
+\decimalpart=\count393
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
 (g:/TeXLive/2018/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip79
+\OuterFrameSep=\skip105
 \fb@frw=\dimen340
 \fb@frh=\dimen341
 \FrameRule=\dimen342
@@ -1790,104 +1874,20 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 )
 \minted@appexistsfile=\read4
-\minted@bgbox=\box76
+\minted@bgbox=\box77
 \minted@code=\write6
-\c@minted@FancyVerbLineTemp=\count344
-\c@minted@pygmentizecounter=\count345
+\c@minted@FancyVerbLineTemp=\count394
+\c@minted@pygmentizecounter=\count395
 Package newfloat Info: New float `listing' with options `fileext=lol,placement=
 tbp' on input line 1151.
-\c@listing=\count346
-\newfloat@ftype=\count347
+\c@listing=\count396
+\newfloat@ftype=\count397
 Package newfloat Info: float type `listing'=8 on input line 1151.
-\c@loldepth=\count348
+\c@loldepth=\count398
 )
 runsystem(if not exist _minted-exp mkdir _minted-exp)...executed.
 
 
-(g:/TeXLive/2018/texmf-dist/tex/latex/layouts/layouts.sty
-Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
-\l@ylen=\skip80
-\layoutsbox=\box77
-\l@youtunitlength=\skip81
-\l@youtlinethick=\skip82
-\l@youtlinethickii=\skip83
-\l@ysetupparskip=\skip84
-\l@ysetupbaselineskip=\skip85
-\l@yonem=\skip86
-\l@yonex=\skip87
-\l@ylmarg=\skip88
-\l@yrmarg=\skip89
-\l@yitmindent=\skip90
-\l@ylblwidth=\skip91
-\l@ylblsep=\skip92
-\l@ylparindent=\skip93
-\l@ytsep=\skip94
-\l@ypskip=\skip95
-\l@yptsep=\skip96
-\l@ypsep=\skip97
-\l@yitmsep=\skip98
-\l@ytok=\toks48
-\l@youtpw=\count349
-\l@youtph=\count350
-\l@youthpi=\count351
-\l@youthpii=\count352
-\l@youthpiii=\count353
-\l@youthpiv=\count354
-\l@youthpv=\count355
-\l@youthpvi=\count356
-\l@youthpvii=\count357
-\l@youtparskip=\count358
-\l@youtvpi=\count359
-\l@youtvpii=\count360
-\l@youtvpiii=\count361
-\l@youtvpiv=\count362
-\l@youtvpv=\count363
-\l@youtvpvi=\count364
-\l@youtvpvii=\count365
-\l@youthdo=\count366
-\l@youthdi=\count367
-\l@youthdii=\count368
-\l@youthdiii=\count369
-\l@youthdiv=\count370
-\l@youthdv=\count371
-\l@youthdvi=\count372
-\l@youthdvii=\count373
-\l@youtvdo=\count374
-\l@youtvdi=\count375
-\l@youtvdii=\count376
-\l@youtvdiii=\count377
-\l@youtvdiv=\count378
-\l@youtvdv=\count379
-\l@youtvdvi=\count380
-\l@youtvdvii=\count381
-\l@youtvdviii=\count382
-\l@youtxci=\count383
-\l@youtxcii=\count384
-\l@youtxciii=\count385
-\l@youtxciv=\count386
-\l@youtxcv=\count387
-\l@youtxcvi=\count388
-\l@youtyci=\count389
-\l@youtycii=\count390
-\l@youtyciii=\count391
-\l@youtyciv=\count392
-\l@youtycv=\count393
-\l@youtycvi=\count394
-\l@youtycvii=\count395
-\l@youtycviii=\count396
-\l@youtxco=\count397
-\l@youtyco=\count398
-\l@ytempdima=\skip99
-\stockwidth=\skip100
-\stockheight=\skip101
-\trimedge=\skip102
-\trimtop=\skip103
-\uppermargin=\skip104
-\spinemargin=\skip105
-)
-(g:/TeXLive/2018/texmf-dist/tex/latex/mdwtools/mdwlist.sty
-Package: mdwlist 1996/05/02 1.1 Various list-related things
-)
 (g:/TeXLive/2018/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2018/03/22 version 4.13 text color boxes
 
@@ -1910,6 +1910,14 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \tcb@temp=\box85
 \tcb@out=\write7
 \tcb@record@out=\write8
+)
+(g:/TeXLive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks51
+\xl@@everylogo=\toks52
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
 )
 (g:/TeXLive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
@@ -2023,8 +2031,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (g:/TeXLive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(g:/TeXLive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+(g:/TeXLive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(g:/TeXLive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
 )
 runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > ex
 p.aex <nul: /p x=^%~$PATH:i>> exp.aex)...executed.
@@ -2040,28 +2051,28 @@ Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
 (./element/ExpHead.aux))
 \openout1 = `exp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 137.
+LaTeX Info: Redefining \selectfont on input line 144.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -2069,57 +2080,57 @@ LaTeX Info: Redefining \selectfont on input line 137.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 137.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 137.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 137.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 137.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 137.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 137.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 137.
-LaTeX Font Info:    Redeclaring math accent \check on input line 137.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 137.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 137.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 137.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 137.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 137.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 144.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 144.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 144.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 144.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 144.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 144.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 144.
+LaTeX Font Info:    Redeclaring math accent \check on input line 144.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 144.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 144.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 144.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 144.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 137.
+(Font)              `operators' in the math version `normal' on input line 144.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 137.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 144.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 137.
+(Font)              `operators' in the math version `bold' on input line 144.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 137.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 144.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 137.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 137.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 137.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 137.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 144.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 137.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 137.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 137.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 144.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 144.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2175,13 +2186,13 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
 \c@lstlisting=\count416
 
 
-Package layouts Warning: Layout scale set to 0.5 on input line 137.
+Package layouts Warning: Layout scale set to 0.5 on input line 144.
 
 
 Package hyperref Warning: Height of page (\stockheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring ON on input line 137.
+Package hyperref Info: Link coloring ON on input line 144.
 (g:/TeXLive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -2190,9 +2201,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count417
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 144.
+LaTeX Info: Redefining \pageref on input line 144.
+LaTeX Info: Redefining \nameref on input line 144.
 
 (./exp.out) (./exp.out)
 \@outlinefile=\write9
@@ -2202,9 +2213,21 @@ LaTeX Info: Redefining \nameref on input line 137.
 \openout2 = `element/ExpHead.aux'.
 
  (./element/ExpHead.tex
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <26.09749> not available
+(Font)              size <24.88> substituted on input line 4.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <22.08249> not available
+(Font)              size <20.74> substituted on input line 4.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <16.06> not available
+(Font)              size <17.28> substituted on input line 4.
+
 File: element/usst.png Graphic file (type bmp)
 <element/usst.png>
- [1
+[1
 
 
 ]) (./exp.toc)
@@ -2214,10 +2237,19 @@ File: element/usst.png Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.5393
 7> not available
 (Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 20.
-[1
+ input line 21.
+ [1
 
 ] (./exp/exp1.tex
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <15.05624> not available
+(Font)              size <14.4> substituted on input line 1.
+
+\openout6 = `exp.pyg'.
+
+(./_minted-exp/default-pyg-prefix.pygstyle) (./_minted-exp/default.pygstyle)
+(./_minted-exp/76E0B0FDBE75A4F3C9279D76CCB188AD636C715DAD8E2F2774C7246A4B8096F2
+.pygtex
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
@@ -2235,47 +2267,61 @@ LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.5393
 . - 'normal' (m/n) with NFSS spec.: <->"[FandolFang-Regular.otf]/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+)
+Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
+t line 15.
 \openout4 = `exp.pyg'.
 
-(./_minted-exp/default-pyg-prefix.pygstyle) (./_minted-exp/default.pygstyle)
-runsystem(pygmentize -l C -f latex -P commandprefix=PYG -F tokenmerge -o _minte
-d-exp/5F042241F338DD8996466B79BCA0CC0F0216FD67817D739DC3D3AD0C11B19D01.pygtex e
-xp.pyg)...executed.
 
-
-(./_minted-exp/5F042241F338DD8996466B79BCA0CC0F0216FD67817D739DC3D3AD0C11B19D01
+(./_minted-exp/8E26FD129AEF8929E9BD55DE0D241371695A4F4AB5F22881E0C37BB2E2188763
 .pygtex
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <7.52812> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
-)))
-runsystem(del _minted-exp\7A3734AD1DB15F1EF1B0E5C0C999C63A0216FD67817D739DC3D3A
-D0C11B19D01.pygtex)...executed.
 
- [1
+
+LaTeX Font Warning: Font shape `TU/FandolFang-Regular(0)/m/it' undefined
+(Font)              using `TU/FandolFang-Regular(0)/m/n' instead on input line 
+2.
+
+)) (./exp/exp2.tex
+\openout4 = `exp.pyg'.
+
+
+(./_minted-exp/739E6E83B886E5D6AE2E01F4BD8AFDCC0216FD67817D739DC3D3AD0C11B19D01
+.pygtex))) [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (./exp.aux (./element/ExpHead.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
-Package rerunfilecheck Info: File `exp.out' has not changed.
-(rerunfilecheck)             Checksum: EBFAE866E2ACFAE54A2A41890ABCCDE6.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 
+
+Package rerunfilecheck Warning: File `exp.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `exp.out':
+(rerunfilecheck)             Before: 8023373779B954BC25DE0F02B442029C
+(rerunfilecheck)             After:  E33922BA78EB4B8711BD66641FA53C78.
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.41063pt have occurred.
+(Font)              up to 1.34248pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 runsystem(del exp.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 47966 strings out of 494842
- 1051842 string characters out of 6174074
- 1275931 words of memory out of 5000000
- 51239 multiletter control sequences out of 15000+600000
- 534812 words of font info for 63 fonts, out of 8000000 for 9000
+ 48130 strings out of 494842
+ 1057582 string characters out of 6174074
+ 1280467 words of memory out of 5000000
+ 51366 multiletter control sequences out of 15000+600000
+ 541508 words of font info for 98 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 55i,8n,74p,10426b,578s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,74p,10426b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on exp.pdf (3 pages).

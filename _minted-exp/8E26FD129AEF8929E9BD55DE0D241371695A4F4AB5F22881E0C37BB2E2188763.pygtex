@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}documentclass}\PYG{n+na}{[UTF8]}\PYG{n+nb}{\PYGZob{}}ctexart\PYG{n+nb}{\PYGZcb{}} \PYG{c}{\PYGZpc{} 使用 ctex 文档类，便于支持中文}
+    \PYG{k}{\PYGZbs{}usepackage}\PYG{n+nb}{\PYGZob{}}graphics\PYG{n+nb}{\PYGZcb{}}     \PYG{c}{\PYGZpc{} \PYGZbs{}includegraphics\PYGZob{}\PYGZcb{} 命令可以引入图片到文档中}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}section}\PYG{n+nb}{\PYGZob{}}第一节\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}par} 正文部分。
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}
