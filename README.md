@@ -25,7 +25,14 @@ tikz    - 使用 tikz 绘图的 tex 文件
 2. 由于内容不多，本项目暂未使用 `cls` 和 `sty` 进行样式定义，未来会考虑添加。
 
 ### 编译：
-在根目录下使用 `xelatex exp` 即可编译，注意当使用 `minted` 宏包插入清单时请使用 `xelatex -shell-escape exp` 进行编译。 
+在根目录下使用以下指令即可编译。
+``` sh
+xelatex exp
+```
+注意当使用 `minted` 宏包插入清单时请添加 `-shell-escape` 选项。
+``` sh
+xelatex -shell-escape exp
+```
 
 ### 截图:
 封面：
