@@ -6,7 +6,8 @@
 \usepackage{enumerate}
 \usepackage{amsmath}
 \usepackage{amsthm}
-\usepackage{caption} % \captionof
+\usepackage{caption}
+\usepackage{float}
 \usepackage{graphicx}
 \usepackage{subfig}
 \usepackage{tikz}
@@ -22,12 +23,11 @@
 \usepackage{xcolor}  % colorlet
 \usepackage{mdwlist} % enumerate*
 \usepackage[newfloat]{minted}
+\usepackage{metalogo}
 \usepackage{tcolorbox}
-%\tcbuselibrary{listings}
 \usepackage{etoolbox}
-\usepackage{metalogo} % \XeLaTeX, \XeTex
 
-\geometry{a4paper,left=3.18cm,right=3.18cm,top=2.54cm,bottom=2.54cm}
+\geometry{a4paper,left=3.86cm,right=2.54cm,top=2.54cm,bottom=2.54cm}
 %%%%%%%%%%%%%%%% 与 ctexset 冲突，不再使用
 %\titleformat{\paragraph}[block]{\normalsize\bfseries}{\theparagraph}{1em}{} % 设置 \paragraph 后换行
 %%%%%%%%%%%%%%%%
@@ -70,6 +70,7 @@
 \setminted{
 	frame=single,
 	rulecolor=mymauve!30!mygray,
+	breaklines,
 	fontsize=\footnotesize,
 }
 \ctexset{
@@ -137,10 +138,10 @@
 		\ifthenelse{\equal{#1}{}}{$ #2 $}{$\mathsf{ #1 } #2 $}}{}}
 %\renewcommand{\proofname}{解}
 \renewcommand{\qedsymbol}{\textcolor{darkred}{\rule{1ex}{1.5ex}}}
-
-\captionsetup{font={footnotesize}}
 \newenvironment{code}{\captionsetup{type=listing}}{}
 \SetupFloatingEnvironment{listing}{name=清单}
+\captionsetup{font={footnotesize}}
+\newcommand{\cinline}[1]{\mintinline[breaklines,breakanywhere,fontsize=\small]{C}{#1}}
 \begin{document}
 
 \input{contents}
