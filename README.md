@@ -36,8 +36,11 @@ xelatex -shell-escape exp
 
 
 ### 截图:
-封面：
+- **封面：**
+
 ![PDF Preview](element/Preview-coverpage.png "Preview - Cover Page")
-使用 `minted` 引入清单：
+
+- **使用 `minted` 引入清单：**
+
 ![PDF Preview](element/Preview-minted.png "Preview - minted")
 
